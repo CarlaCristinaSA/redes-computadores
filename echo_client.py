@@ -13,7 +13,7 @@ import socket
 
 # IMPORTANTE: altere para o endereço IP da máquina onde o
 # servidor (echo_server.py) está em execução.
-SERVER_HOST = '10.10.237.195.'
+SERVER_HOST = '10.10.237.195'
 SERVER_PORT = 12345
 CHAR_ENCERRAMENTO = '#'
 
